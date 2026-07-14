@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on an AI-powered Physics-Informed Digital Twin for predictive maintenance<br>🤝 I’m looking for help with AI/ML, full-stack development, digital twin systems, and open-source contributions. I'm always eager to learn from experienced developers and collaborate on real-world projects.<br>🌱 I’m currently learning Java <br>💬 Ask me about AI, Java, Full-Stack Development, Digital Twin Technology, Hackathons, Open Source, and Building Real-World Projects<br>⚡ Fun fact I spend more time debugging than sleeping, and I genuinely enjoy solving coding challenges.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Professional_Hope738) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prosoonpranav@gmail.com) 
